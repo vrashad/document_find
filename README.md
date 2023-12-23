@@ -69,3 +69,11 @@ ID: 25, Distance: 0.3725210719916774, Source: Nəqliyyat vasitələri sürücül
 ID: 23, Distance: 0.3793541471490398, Source: Sürücülük vəsiqəsinin verilməsi və dəyişdirilməsi.txt
 ID: 18, Distance: 0.38118660012431993, Source: Sürücülük vəsiqələrinin verilməsi və dəyişdirilməsi qaydaları haqqında TƏLİMAT.txt
 ```
+
+Axtarış prosesində **Count of most suitable documents:** dəyər olaraq 5 daxil etdiyimizdən, axtarış sorğusunu uyğun olan top 5 vektoru əldə edirik
+
+Əldə edilən vektorlar uyğunluğunu görə azalma sırası ilə düzülür
+
+Distance, yəni k bucağı nə qədər kiçik olsa bir o qədər sənəd axtarılan sorğuya uyğun olacaq
+
+Nəticədə biz vektorun ID-sini, vektorlar arasındakı məsafəni və vektorun hansı fayla aid olduğu məlumatını əldə edə bilirik

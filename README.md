@@ -17,8 +17,15 @@ Sonra vektorların saxlanacağı boş qovluğu təyin etməliyik
 
 Gəlin bu məqsədlə `vectors` adlı boş qovluqdan istifadə edək
 
+Bu etapları bitirdikdən sonra, lazım olan paketləri yükləməliyik
 
+```bash
+pip install chromadb sentence-transformers
+```
+
+Paketlərin yüklənilməsi başa çatdıqdan sonra, sənədlərin vektorlaşdırılması əməliyyata keçirik
 
 ```bash
 vector_generate.py
 ```
+

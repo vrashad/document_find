@@ -7,7 +7,7 @@
 
 ### 1- Sənədlərin vektorlaşdırılması
 
-İlk olaraq [multilingual-e5-large](https://huggingface.co/intfloat/multilingual-e5-large) modelindən istifadə edərək, txt formatında olan sənədləri vektorlaşdırmaq lazımdır və sonra əldə olunan vektorları [ChromaDB](https://www.trychroma.com/) vasitəsilə tərtib edilən vektor məlumatlar bazasına daxil etmək lazımdır
+İlk olaraq [multilingual-e5-large](https://huggingface.co/intfloat/multilingual-e5-large) modelindən istifadə edərək, txt formatında olan sənədləri vektorlaşdırmaq lazımdır və sonra əldə olunan vektorları [ChromaDB](https://www.trychroma.com/) vasitəsilə tərtib edilən local vektor verilənlər bazasına daxil etmək lazımdır
 
 Mən test üçün Dövlət Yol Polisinə aid olan qanunvericilik toplusundan istifadə edirəm. Siz istədiyiniz sənədlərdən istifadə edə bilərsiniz
 

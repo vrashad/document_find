@@ -36,6 +36,7 @@ Script-i icra edərkən bizdən bəzi məlumatların daxil edilməsi tələb olu
 **Please enter source TXT files folder:** Sənədlərin yerləşdiyi qovluğun tam ünvanı (misal üçün `D:\GitHub\document_find\documents`)<br><br>
 **Use default model ? Y/N (Default: intfloat/multilingual-e5-large:** Burada əgər başqa bir modeldən istifadə edilməyəcəksə, o zaman sadəcə `Y` daxil etmək lazımdır
 
+
 Vektorlaşma prosesi bitdikdən sonra, `vectors` qovluğunda SQLite formatında fayl və indeks adına uyğun olaraq qovluq əmələ gələcək
 
 Bu o deməkdir ki, vektorlaşma başa çatdı və sənədlərin vektorları fiziki olaraq məhz bu qovluqda saxlanılır
@@ -52,7 +53,7 @@ Script-i icra edərkən bizdən bəzi məlumatların daxil edilməsi tələb olu
 
 **Please enter search query:** Axtarış sorğusu (misal üçün `Baş Dövlət Yol Polisi İdarəsinin rəisinin əlaqə nömrəsi`)<br><br>
 **Count of most suitable documents:** Axtarışa ən çox uyğun olan sənədlərin sayı (misal üçün `5`)<br><br>
-**Please enter collection name:** Vektorların saxlanıldığı kolleksiyanın adı `DYP`. Bu ad axtarışın həyata keçiriləcəyi sənədlərin vektorlarının saxlanıldığı kolleksiyanın adına tam uyğun olmalıdır
+**Please enter collection name:** Vektorların saxlanıldığı kolleksiyanın adı `DYP`. Bu ad axtarışın həyata keçiriləcəyi sənədlərin vektorlarının saxlanıldığı kolleksiyanın adına tam uyğun olmalıdır<br><br>
 **Please enter collection folder:** Vektorların saxlanılacağı boş qovluğun tam ünvanı `D:\GitHub\document_find\vectors`. Bu ad ünvan axtarışın həyata keçiriləcəyi sənədlərin vektorlarının saxlanıldığı qovluğun ünvanına tam uyğun olmalıdır<br><br>
 **Use default model ? Y/N (Default: intfloat/multilingual-e5-large:** Burada əgər başqa bir modeldən istifadə edilməyəcəksə, o zaman sadəcə `Y` daxil etmək lazımdır. Sənədləri vektorlaşdırdıqda hansı modeldən istifadə etmişiksə, axtarışda da o modeldən istifadə etməliyik
 

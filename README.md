@@ -29,3 +29,10 @@ Paketlərin yüklənilməsi başa çatdıqdan sonra, sənədlərin vektorlaşdı
 vector_generate.py
 ```
 
+Script-i icra edərkən bizdən bəzi məlumatların daxil edilməsi tələb olunacaq
+
+**Please enter collection name:** Vektorların saxlanıldığı kolleksiyanın adı (misal üçün `DYP`)<br>
+**Please enter collection path:** Vektorların saxlanılacağı boş qovluğun tam ünvanı (misal üçün `D:\GitHub\document_find\vectors`)<br>
+**Please enter source TXT files folder:** Sənədlərin yerləşdiyi qovluğun tam ünvanı (misal üçün `D:\GitHub\document_find\documents`)<br>
+**Use default model ? Y/N (Default: intfloat/multilingual-e5-large:** Burada əgər başqa bir modeldən istifadə edilməyəcəksə, o zaman sadəcə `Y` daxil etmək lazımdır
+

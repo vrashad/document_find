@@ -67,4 +67,5 @@ ID: 8, Distance: 0.35491715843068655, Source: Cərimələr.txt
 ID: 14, Distance: 0.3563939807194985, Source: Piyadanın məsuliyyəti.txt
 ID: 25, Distance: 0.3725210719916774, Source: Nəqliyyat vasitələri sürücülərinin hazırlanması və onların ixtisasının artırılması kursları haqqında Əsasnamə.txt
 ID: 23, Distance: 0.3793541471490398, Source: Sürücülük vəsiqəsinin verilməsi və dəyişdirilməsi.txt
-ID: 18, Distance: 0.38118660012431993, Source: Sürücülük vəsiqələrinin verilməsi və dəyişdirilməsi qaydaları haqqında TƏLİMAT.txt```
+ID: 18, Distance: 0.38118660012431993, Source: Sürücülük vəsiqələrinin verilməsi və dəyişdirilməsi qaydaları haqqında TƏLİMAT.txt
+```

@@ -1,0 +1,51 @@
+Avtomobil yollarının uzunluğu - 18799 km.
+Onlardan asfalt beton - 6370 km.
+Qara örtük - 3450 km.
+Çınqıl - 8774 km.
+Torpaq - 205 km.
+Respublika əhəmiyyətli yollar - 4577 km   
+Onlardan asfalt beton - 4279 km.
+Qara örtük - 212 km.
+Çınqıl - 77 km.
+Torpaq - 9 km.
+Yerli əhəmiyyətli yollar  - 14222 km.
+Onlardan asfalt beton - 2091 km.
+Qara örtük - 3238 km.
+Çınqıl - 8697 km.
+Torpaq - 196 km.
+Avtomobil yollarında nəzərdə tutulan yol nişanları - 62000 ədəd.
+Yollarda körpü və yol ötürücüləri -2071 ədəd.
+Respublika əhəmiyyətli yollarda körpülərin sayı - 1181 ədəd.
+Avtomobil yollarında dəmiryol keçidləri - 488 ədəd.
+Avtomagistral kateqoriyasına uyğun olan avtomobil yollarının uzunluğu - 99 km.
+Respublika  əhəmiyyətli  yollar 84  yaşayış  məntəqəsini birləşdirir.
+İşğal olunmuş ərazidə yerləşən yolların ümumi uzunluğu  - 4498 km
+onlardan asfalt beton - 3433 km
+o cümlədən respublika əhəmiyyətli yollar - 1065 km
+onlardan asfalt beton - 897 km
+körpülər - 110 ədəd,
+onlardan 77 ədəd - resp.əhəmiyyətli yollarda. 
+Naxçıvan Muxtar Respublikasında ümumi yolların uzunluğu  - 1473 km
+resp.əhəmiyyətli - 274
+yerli əhəmiyyətli - 1199 km.
+Körpülər -201 ədəd, 
+onlardan 171 respublika əhəmiyyətli yollarda.
+Yol nişanları - 3541 ədəd.
+Respublika əhəmiyyətli yollar
+Bakı-Ələt- Qazax-Gürcüstan Respublikası ilə Dövlət sərhədi - 503 km.
+Ağdaş - Zarağən - Qəbələ yolu - 43 km.
+Zaqatala - Balakən (dövlət sərhədi) yolu  - 34 km
+Bakı-Quba-Rusiya Federasiyası ilə Dövlət sərhədi - 208 km .
+Gəndob - Yalama yolu  - 66 km.
+Samur - Yalama yolu  - 20 km.
+Bakı - Astara (İran İR. sərhədi) yolu  - 312 km.
+Ələt - Qazı  Məmməd - Yevlax yolu - 216 km.
+Muğanlı - İsmayıllı yolu - 40 km.
+Xaldan - Göybulaq - Zaqatala yolu - 29 km.
+Qaraməryəm - İsmayıllı - Şəki yolu - 93 km.
+Z.Tağıyev qəs. - Sahil qəs. yolu - 41 km.
+Qazı Məmməd -  Pokrovka - Bəhrəmtəpə yolu - 106 km.
+Bəhrəmtəpə - Həkəri - Mincivan yolu  - 62 km.
+Yevlax - Ağdam yolu - 42 km.
+Mingəçevir - Bəhrəmtəpə - Biləsuvar yolu  - 121 km.
+Borsunlu - Hindarx yolu - 90 km.

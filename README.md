@@ -31,9 +31,9 @@ vector_generate.py
 
 Script-i icra edərkən bizdən bəzi məlumatların daxil edilməsi tələb olunacaq
 
-**Please enter collection name:** Vektorların saxlanıldığı kolleksiyanın adı (misal üçün `DYP`)<br><br>
-**Please enter collection folder:** Vektorların saxlanılacağı boş qovluğun tam ünvanı (misal üçün `D:\GitHub\document_find\vectors`)<br><br>
-**Please enter source TXT files folder:** Sənədlərin yerləşdiyi qovluğun tam ünvanı (misal üçün `D:\GitHub\document_find\documents`)<br><br>
+**Please enter collection name:** Vektorların saxlanıldığı kolleksiyanın adı (misal üçün `DYP`)<br>
+**Please enter collection folder:** Vektorların saxlanılacağı boş qovluğun tam ünvanı (misal üçün `D:\GitHub\document_find\vectors`)<br>
+**Please enter source TXT files folder:** Sənədlərin yerləşdiyi qovluğun tam ünvanı (misal üçün `D:\GitHub\document_find\documents`)<br>
 **Use default model ? Y/N (Default: intfloat/multilingual-e5-large:** Burada əgər başqa bir modeldən istifadə edilməyəcəksə, o zaman sadəcə `Y` daxil etmək lazımdır
 
 
@@ -51,10 +51,10 @@ seach.py
 
 Script-i icra edərkən bizdən bəzi məlumatların daxil edilməsi tələb olunacaq
 
-**Please enter search query:** Axtarış sorğusu (misal üçün `Baş Dövlət Yol Polisi İdarəsinin rəisinin əlaqə nömrəsi`)<br><br>
-**Count of most suitable documents:** Axtarışa ən çox uyğun olan sənədlərin sayı (misal üçün `5`)<br><br>
-**Please enter collection name:** Vektorların saxlanıldığı kolleksiyanın adı `DYP`. Bu ad axtarışın həyata keçiriləcəyi sənədlərin vektorlarının saxlanıldığı kolleksiyanın adına tam uyğun olmalıdır<br><br>
-**Please enter collection folder:** Vektorların saxlanılacağı boş qovluğun tam ünvanı `D:\GitHub\document_find\vectors`. Bu ad ünvan axtarışın həyata keçiriləcəyi sənədlərin vektorlarının saxlanıldığı qovluğun ünvanına tam uyğun olmalıdır<br><br>
+**Please enter search query:** Axtarış sorğusu (misal üçün `Baş Dövlət Yol Polisi İdarəsinin rəisinin əlaqə nömrəsi`)<br>
+**Count of most suitable documents:** Axtarışa ən çox uyğun olan sənədlərin sayı (misal üçün `5`)<br>
+**Please enter collection name:** Vektorların saxlanıldığı kolleksiyanın adı `DYP`. Bu ad axtarışın həyata keçiriləcəyi sənədlərin vektorlarının saxlanıldığı kolleksiyanın adına tam uyğun olmalıdır<br>
+**Please enter collection folder:** Vektorların saxlanılacağı boş qovluğun tam ünvanı `D:\GitHub\document_find\vectors`. Bu ad ünvan axtarışın həyata keçiriləcəyi sənədlərin vektorlarının saxlanıldığı qovluğun ünvanına tam uyğun olmalıdır<br>
 **Use default model ? Y/N (Default: intfloat/multilingual-e5-large:** Burada əgər başqa bir modeldən istifadə edilməyəcəksə, o zaman sadəcə `Y` daxil etmək lazımdır. Sənədləri vektorlaşdırdıqda hansı modeldən istifadə etmişiksə, axtarışda da o modeldən istifadə etməliyik
 
 
